@@ -1,0 +1,1 @@
+This is the file that contains the world.ts file which sets the global environment.
